@@ -1,5 +1,40 @@
-# Merged Rules - Updated: 2025-11-13 20:05:16
-
+# ===== Apple =====
+DOMAIN-KEYWORD,apple-support.akadns.net
+DOMAIN-KEYWORD,apple.com.akadns.net
+DOMAIN-KEYWORD,apple.com.edgekey.net
+DOMAIN-KEYWORD,buy.itunes.apple.com
+DOMAIN-KEYWORD,smp-device
+DOMAIN-KEYWORD,testflight
+DOMAIN-KEYWORD,icloud.com.akadns.net
+USER-AGENT,*Music*
+USER-AGENT,*WeatherFoundation*
+USER-AGENT,*com.apple.mobileme.fmip1
+USER-AGENT,FMDClient*
+USER-AGENT,FMFD*
+USER-AGENT,Maps*
+USER-AGENT,Wallet*
+USER-AGENT,com.apple.Maps
+USER-AGENT,com.apple.appstored*
+USER-AGENT,fmflocatord*
+USER-AGENT,geod*
+USER-AGENT,locationd*
+USER-AGENT,passd*
+USER-AGENT,Music*
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+USER-AGENT,AppleTV*
+USER-AGENT,com.apple.trustd*
+USER-AGENT,com.apple.tv*
+IP-CIDR,139.178.128.0/18,no-resolve
+IP-CIDR,144.178.0.0/19,no-resolve
+IP-CIDR,144.178.36.0/22,no-resolve
+IP-CIDR,144.178.48.0/20,no-resolve
+IP-CIDR,17.0.0.0/8,no-resolve
+IP-CIDR,192.35.50.0/24,no-resolve
+IP-CIDR,198.183.17.0/24,no-resolve
+IP-CIDR,205.180.175.0/24,no-resolve
+IP-CIDR,63.92.224.0/19,no-resolve
+IP-CIDR,65.199.22.0/23,no-resolve
 # ===== Twitter =====
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
@@ -34,7 +69,6 @@ IP-CIDR,199.96.56.0/21,no-resolve
 IP-CIDR,202.160.128.0/22,no-resolve
 IP-CIDR,209.237.192.0/19,no-resolve
 IP-CIDR,69.195.160.0/19,no-resolve
-
 # ===== Spotify =====
 DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,cdn-spotify-experiments.conductrics.com
@@ -66,7 +100,6 @@ DOMAIN-KEYWORD,spotify
 USER-AGENT,Spotify*
 IP-CIDR,104.154.127.126/32,no-resolve
 IP-CIDR,35.186.224.47/32,no-resolve
-
 # ===== Facebook =====
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
@@ -638,7 +671,6 @@ IP-CIDR,54.173.34.141/32,no-resolve
 IP-CIDR,54.235.23.242/32,no-resolve
 IP-CIDR,54.93.124.31/32,no-resolve
 IP-ASN,32934,no-resolve
-
 # ===== Reddit =====
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
@@ -648,7 +680,6 @@ DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,reddituploads.com
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
-
 # ===== Netflix =====
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,h-netflix.online-metrix.net
@@ -1808,7 +1839,6 @@ IP-CIDR6,2a00:86c0::/32,no-resolve
 IP-CIDR6,2a03:5640::/32,no-resolve
 USER-AGENT,Argo*
 PROCESS-NAME,com.netflix.mediaclient
-
 # ===== Line =====
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line-apps.com
@@ -1833,7 +1863,6 @@ IP-CIDR,203.104.103.0/24,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
 IP-CIDR,203.174.66.64/26,no-resolve
 IP-CIDR,203.174.77.0/24,no-resolve
-
 # ===== TikTok =====
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
@@ -1868,10 +1897,8 @@ DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
 USER-AGENT,TikTok*
 PROCESS-NAME,com.zhiliaoapp.musically
-
 # ===== Instagram =====
 DOMAIN-KEYWORD,instagram
-
 # ===== Whatsapp =====
 DOMAIN,graph.facebook.com
 DOMAIN-SUFFIX,bintray.com
@@ -1887,7 +1914,6 @@ IP-CIDR,208.43.122.128/27,no-resolve
 IP-CIDR,34.224.0.0/12,no-resolve
 IP-CIDR,50.22.198.204/30,no-resolve
 IP-CIDR,54.242.0.0/15,no-resolve
-
 # ===== Telegram =====
 DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app
@@ -1929,7 +1955,6 @@ IP-ASN,44907,no-resolve
 IP-ASN,59930,no-resolve
 IP-ASN,62014,no-resolve
 IP-ASN,62041,no-resolve
-
 # ===== OpenAI =====
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
@@ -1966,7 +1991,6 @@ DOMAIN-KEYWORD,openai
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
 IP-ASN,20473,no-resolve
-
 # ===== Google =====
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -2672,7 +2696,6 @@ IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,216.73.80.0/20,no-resolve
 IP-CIDR,2620:120:e000::/40,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
-
 # ===== Global =====
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
@@ -2740,7 +2763,6 @@ USER-AGENT,PayPal*
 USER-AGENT,Roam*
 USER-AGENT,WhatsApp*
 USER-AGENT,battleroyale*
-USER-AGENT,com.apple.trustd*
 USER-AGENT,hearthstone*
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,101.32.118.0/23,no-resolve

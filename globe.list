@@ -73,6 +73,7 @@ DOMAIN-KEYWORD,myip
 DOMAIN-KEYWORD,ipapi
 DOMAIN-KEYWORD,geoip
 DOMAIN-KEYWORD,ip.
+DOMAIN-KEYWORD,ip-api.com
 
 # ===== Twitter =====
 DOMAIN-SUFFIX,cms-twdigitalassets.com

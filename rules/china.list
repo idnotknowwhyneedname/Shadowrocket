@@ -551,36 +551,26 @@ DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xhscdn.net
 DOMAIN-SUFFIX,xiaohongshu.com
-# ===== XianYu / Goofish =====
+# ===== XianYu / Goofish 强制代理 =====
 DOMAIN-SUFFIX,xianyu.mobi
 DOMAIN-SUFFIX,goofish.com
 DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,tls-goofish.dingtalk.com
-DOMAIN-SUFFIX,amdc.m.taobao.com
+DOMAIN-SUFFIX,dingtalkcdn.com
+DOMAIN-SUFFIX,tbcdn.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,aliyuncs.com
-DOMAIN-SUFFIX,alipayobjects.com
-DOMAIN-SUFFIX,tbcdn.cn
-DOMAIN-SUFFIX,mmstat.com
-DOMAIN-SUFFIX,mxhichina.com
-DOMAIN-SUFFIX,scdn.com
-DOMAIN-SUFFIX,ucweb.com
-DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,aliapp.com
-DOMAIN-SUFFIX,aliapp-inc.com
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,alipay.cn
-DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,aliyuncs.net
-DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,amdc.m.taobao.com
+
+# ===== AMDC 调度服务器 IP（最关键）=====
 IP-CIDR,47.246.103.9/32
 IP-CIDR,47.246.103.10/32
 IP-CIDR,59.82.113.10/32
 IP-CIDR,59.82.113.219/32
 IP-CIDR,139.95.4.98/32
+IP-CIDR,139.95.0.151/32
 # ===== XieCheng =====
 DOMAIN-SUFFIX,c-ctrip.com
 DOMAIN-SUFFIX,colinker.com

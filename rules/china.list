@@ -561,17 +561,21 @@ DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,aliyuncs.com
-
-# ===== AMDC 的直连 IP =====
-IP-CIDR,47.246.103.0/24
-IP-CIDR,59.82.113.0/24
-IP-CIDR,139.95.0.0/16
-IP-CIDR,139.95.4.0/24
-IP-CIDR,47.246.103.9/32
-IP-CIDR,47.246.103.10/32
-IP-CIDR,59.82.113.219/32
-IP-CIDR,59.82.113.10/32
-IP-CIDR,139.95.4.98/32
+DOMAIN-SUFFIX,ewqcxz.com
+DOMAIN-SUFFIX,hjkhjkl.com
+DOMAIN-SUFFIX,iopiopl.com
+DOMAIN-SUFFIX,lkjujm.com
+DOMAIN-SUFFIX,mnbvdfg.com
+DOMAIN-SUFFIX,nfmrtfv.com
+DOMAIN-SUFFIX,poiuytw.com
+DOMAIN-SUFFIX,qazasd.com
+DOMAIN-SUFFIX,redfcv.com
+DOMAIN-SUFFIX,svfrrg.com
+DOMAIN-SUFFIX,tfgvb.com
+DOMAIN-SUFFIX,uyhjnm.com
+DOMAIN-SUFFIX,vbmnmy.com
+DOMAIN-SUFFIX,wsxsdf.com
+DOMAIN-SUFFIX,xcbbtf.com
 # ===== XieCheng =====
 DOMAIN-SUFFIX,c-ctrip.com
 DOMAIN-SUFFIX,colinker.com

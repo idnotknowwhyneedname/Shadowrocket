@@ -133,6 +133,10 @@ IP-CIDR,104.154.127.126/32,no-resolve
 IP-CIDR,35.186.224.47/32,no-resolve
 # ===== Reddit =====
 DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,redditspace.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,reddituploads.com
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com

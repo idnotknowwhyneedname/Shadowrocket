@@ -256,7 +256,7 @@ IP-CIDR,59.111.181.155/32,no-resolve
 IP-CIDR,59.111.19.33/32,no-resolve
 IP-CIDR,59.111.21.14/31,no-resolve
 IP-CIDR,59.111.238.29/32,no-resolve
-# ===== China =====
+# ===== China ====
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,ip138.com

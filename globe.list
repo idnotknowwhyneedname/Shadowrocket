@@ -81,19 +81,6 @@ DOMAIN-SUFFIX, apple-relay.cloudflare.com
 DOMAIN-SUFFIX, guzzoni.apple.com
 DOMAIN-SUFFIX, cp4.cloudflare.com
 DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com
-# =====  Binance =====
-DOMAIN-SUFFIX,appsflayer.com
-DOMAIN-SUFFIX,binance.cloud
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binance.me
-DOMAIN-SUFFIX,binancecnt.com
-DOMAIN-SUFFIX,binancefuture.com
-DOMAIN-SUFFIX,bnappzh.co
-DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-SUFFIX,bnbzh.ac
-DOMAIN-SUFFIX,bntrace.com
-DOMAIN-SUFFIX,saasexch.cc
-DOMAIN-SUFFIX,saasexch.com
 # ===== Twitter =====
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,twimg.co

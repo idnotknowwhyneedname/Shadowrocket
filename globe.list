@@ -265,6 +265,7 @@ IP-ASN,20473,no-resolve
 # ===== Google =====
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,1ucrs.com
 DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2mdn-cn.net

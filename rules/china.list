@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,wx.qq.com
 DOMAIN-SUFFIX,wxapp.tc.qq.com
 DOMAIN-SUFFIX,wxs.qq.com
 DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,yun-hl.3g.qq.com
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*

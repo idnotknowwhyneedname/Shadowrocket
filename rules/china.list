@@ -90,6 +90,7 @@ DOMAIN-SUFFIX,api-e189.21cn.com
 USER-AGENT,AliApp*
 USER-AGENT,XianYu*
 IP-CIDR,47.246.103.10/32,no-resolve
+IP-CIDR,139.95.4.98/32,no-resolve
 IP-CIDR,59.82.113.219/32,no-resolve
 IP-CIDR,139.95.0.151/32,no-resolve
 IP-CIDR,47.246.103.9/32,no-resolve

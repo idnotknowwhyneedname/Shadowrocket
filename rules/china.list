@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,ifaa.org.cn
 DOMAIN-SUFFIX,luohanacademy.com
 DOMAIN-SUFFIX,sinopayment.com.cn
 DOMAIN-SUFFIX,dgtis.com
+IP-CIDR,163.181.94.203/32,no-resolve
 # ===== XiaoHongShu =====
 DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,xhscdn.com

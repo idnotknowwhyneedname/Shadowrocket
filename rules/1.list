@@ -37,6 +37,19 @@ DOMAIN-SUFFIX,7-eleven.co.th
 DOMAIN-SUFFIX,7eleven.co.th
 DOMAIN-SUFFIX,cpall.co.th
 DOMAIN-KEYWORD,starbucks,DIRECT
+#!name=AIS-Local
+#!desc=泰国 AIS 全量本地直连（2025 最新）
+
+# ===== AIS 主站 =====
+DOMAIN-SUFFIX,ais.co.th,DIRECT
+DOMAIN-SUFFIX,ais.th,DIRECT
+DOMAIN-SUFFIX,ais.in.th,DIRECT
+# ===== AIS Mobile / myAIS =====
+DOMAIN-SUFFIX,ais.co.th,DIRECT
+DOMAIN-SUFFIX,aisfibre.co.th,DIRECT
+DOMAIN-SUFFIX,aisfiber.co.th,DIRECT
+DOMAIN-SUFFIX,aisplay.co.th,DIRECT
+DOMAIN-SUFFIX,aisnext.co.th,DIRECT
 # ===== Telegram (Local Direct) ====
 DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app

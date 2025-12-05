@@ -1,51 +1,50 @@
-# NAME: Apple
+#!name=Apple-Local
+#!desc=所有苹果官方服务走本地（2025 最新收集）
+
+# ===== 核心 Apple 域名 =====
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple-mapkit.com
-DOMAIN-SUFFIX,appleid.apple.com
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-KEYWORD,apple-support.akadns.net
-DOMAIN-KEYWORD,apple.com.akadns.net
-DOMAIN-KEYWORD,apple.com.edgekey.net
-DOMAIN-KEYWORD,buy.itunes.apple.com
+DOMAIN-SUFFIX,applemusic.com
+DOMAIN-SUFFIX,findmydevice.apple.com
+
+# ===== 你遇到过的特殊域名 =====
+DOMAIN-SUFFIX,apptrailers.itunes.apple.com
+DOMAIN-SUFFIX,amp-api-edge.apps.apple.com
+
+# ===== Apple CDN / Akamai =====
+DOMAIN-SUFFIX,apple.com.edgesuite.net
+DOMAIN-SUFFIX,apple.com.edgekey.net
+DOMAIN-SUFFIX,akadns.net
+
+# ===== Apple 分发平台（TestFlight / 软件包验证）=====
+DOMAIN-SUFFIX,testflight.apple.com
+DOMAIN-SUFFIX,appstoreconnect.apple.com
+DOMAIN-SUFFIX,buy.itunes.apple.com
+
+# ===== Apple 服务相关（安全 / 搜索 / 推送）=====
+DOMAIN-KEYWORD,appleid
 DOMAIN-KEYWORD,smp-device
-DOMAIN-KEYWORD,testflight
-DOMAIN-KEYWORD,icloud.com.akadns.net
-USER-AGENT,*FindMyiPhone?
-USER-AGENT,*Music?
-USER-AGENT,*WeatherFoundation*
-USER-AGENT,*com.apple.Maps?
-USER-AGENT,*com.apple.mobileme.fmip1
-USER-AGENT,FMDClient*
-USER-AGENT,FMFD*
-USER-AGENT,FindMyFriends*
-USER-AGENT,FindMyiPhone*
-USER-AGENT,Maps*
-USER-AGENT,Wallet*
-USER-AGENT,com.apple.Maps
-USER-AGENT,com.apple.appstored*
-USER-AGENT,fmflocatord*
-USER-AGENT,geod*
-USER-AGENT,locationd*
-USER-AGENT,passd*
-USER-AGENT,Music*
-USER-AGENT,AppleNews*
-USER-AGENT,com.apple.news*
-USER-AGENT,AppleTV*
-USER-AGENT,com.apple.trustd*
-USER-AGENT,com.apple.tv*
+DOMAIN-KEYWORD,findmy
+DOMAIN-KEYWORD,weather
+
+# ===== IP 网段（不 resolve DNS）=====
+IP-CIDR,17.0.0.0/8,no-resolve
+IP-CIDR,63.92.224.0/19,no-resolve
+IP-CIDR,65.199.22.0/23,no-resolve
 IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,144.178.0.0/19,no-resolve
 IP-CIDR,144.178.36.0/22,no-resolve
 IP-CIDR,144.178.48.0/20,no-resolve
-IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
-IP-CIDR,63.92.224.0/19,no-resolve
-IP-CIDR,65.199.22.0/23,no-resolve
 # 泰国 7‑Eleven
 DOMAIN-SUFFIX,7-eleven.co.th
 DOMAIN-SUFFIX,7eleven.co.th

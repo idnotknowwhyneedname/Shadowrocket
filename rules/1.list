@@ -37,12 +37,6 @@ DOMAIN-SUFFIX,7-eleven.co.th
 DOMAIN-SUFFIX,7eleven.co.th
 DOMAIN-SUFFIX,cpall.co.th
 DOMAIN-KEYWORD,starbucks
-# ===== AIS Mobile / myAIS =====
-DOMAIN-SUFFIX,ais.co.th
-DOMAIN-SUFFIX,aisfibre.co.th
-DOMAIN-SUFFIX,aisfiber.co.th
-DOMAIN-SUFFIX,aisplay.co.th
-DOMAIN-SUFFIX,aisnext.co.th
 # ===== Telegram (Local Direct) ====
 DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app
